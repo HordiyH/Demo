@@ -1,0 +1,25 @@
+.itm1{
+    background-color: rgb(50,66,98);
+    height: 135px;
+    border: 3px solid white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 1.5rem;
+    color: aliceblue;
+ }
+.itm2{
+    background-color: rgb(50,66,98);
+    height: 90px;
+    border: 3px solid white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+.container{
+    width: 650px;
+    margin-top: 120px;
+}
+ 
